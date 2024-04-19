@@ -32,5 +32,5 @@ add g5(w3,-w1,bin);
 endmodule
 ```
 [image]![WhatsApp Image 2024-03-25 at 14 00 14_acc62522](https://github.com/Afsar1276/FULL_SUBTRACTOR/assets/161407741/1c231ebf-61b1-42c1-88ad-2bef63f148c6)
-RESULT:
+# RESULT:
 Thus the verilog program for full subtractor has been simulated and verified successfully.
